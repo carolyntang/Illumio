@@ -6,7 +6,7 @@ Python 2.7
 
 # Files included
 1. Firewall.py: a python file contains functions to solve the challenge
-2. input.csv: a csv file contians a list of firewall rules to test the code in Firewall.py
+2. input.csv: a csv file contains a list of firewall rules to test the code in Firewall.py
 
 # How to test the solution
 1. download both files on your laptop or computer and make sure they are on the same directory or folder
