@@ -13,7 +13,7 @@ Python 2.7
 2. open terminal on your laptop 
 3. cd to the directory where contains both files
 4. type "python Firewall.py" in the terminal to run the Firewall.py file
-To change or modify the input rules, just simpliy open the input.csv file and add more rules in the list
+To change or modify the input rules, just simply open the input.csv file and add more rules in the list
 To test more requests than the given ones in the pdf file, open the Firewall.py file and add fw.accept_packet calls in the end of the file
 
 # Coding/Design decisions made
@@ -31,6 +31,6 @@ To test more requests than the given ones in the pdf file, open the Firewall.py 
 1. In my opinion, this is a very interesting problem to solve and work on, I would like to know how the Illumio engineers will solve the problem, what kind of design decisions you will make. Moreover, what kind of network plug-ins or security APIs you would use to implement the firewall.
 
 # Teams interested
-Rank #1. Platform team: I am interested in learning how to build software with open source. I am currently working on a project with a open source community. In addition, I think the projects are very interesting and I would like to work on solving those problems.
+Rank #1. Platform team: I am interested in learning how to build software with open source. I am currently working on a project with an open source community. In addition, I think the projects are very interesting and I would like to work on solving those problems.
 
 Rank #2. Data team: I am interested in the data-driven projects and I have some experiences working on data analysis projects. 
